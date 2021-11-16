@@ -1,13 +1,13 @@
 
 ## <p align="center">Jicheol Kang :grinning: </p> <p align="center"><img src="https://user-images.githubusercontent.com/57743113/142025819-a6711a39-b4fe-490d-990b-938cc74eadcb.jpg" width="160" height="160"></p>
 
-### CONTACT
+### :envelope: CONTACT
 
 ztor76@gmail.com or ztor76@naver.com
 
-### SUMMARY
+### :fast_forward: SUMMARY
 
-### :man_student: EDUCATION
+### :mortar_board: EDUCATION
 
 **Seoul National University of Science and Technology(SeoulTech)**, Seoul, Korea<br>
 *M. S. in Data Sciences(Expected, Mar. 2020 - Feb. 2022)*
