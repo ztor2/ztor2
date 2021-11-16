@@ -10,11 +10,13 @@ ztor76@gmail.com
 
 **Seoul National University of Science and Technology(SeoulTech)**, Seoul, Korea<br>
 *M. S. in Data Sciences(Expected, Mar. 2020 - Feb. 2022)*
+- Thesis: *'A Study on Adjustable and Simplified Graph Diffusion Neural Networks'*
 - GPA: 4.33/4.5
 
 
 **Konkuk University**, Seoul, Korea<br>
 *B. S. in Biological Sciences(Mar. 2011 - Feb. 2017)*
+- Thesis: 
 - GPA: 3.57/4.5
   
   
