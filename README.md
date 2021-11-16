@@ -1,4 +1,33 @@
-### Hi there 👋
+## Jicheol Kang :grinning:
+
+### CONTACT
+
+ztor76@gmail.com
+
+### SUMMARY
+
+### :man_student: EDUCATION
+
+**Seoul National University of Science and Technology(SEOULTECH)**, Seoul, Korea<br>
+*M. S. in Data Sciences(Expected, Mar. 2020 - Feb. 2022)*
+- GPA: 4.33/4.5
+
+
+**Konkuk University**, Seoul, Korea<br>
+*B. S. in Biological Sciences(Mar. 2011 - Feb. 2017)*
+- GPA: 3.57/4.5
+  
+  
+<br>
+  
+### :runner: EXPERIENCE
+
+
+### :computer: SKILLS
+
+
+### :bicyclist: EXTRACURRICULAR ACTIVITIES
+
 
 <!--
 **ztor2/ztor2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
