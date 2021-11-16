@@ -1,7 +1,5 @@
-## Jicheol Kang :grinning:
 
-<br>
-<p align="right"><img src="https://user-images.githubusercontent.com/57743113/142025819-a6711a39-b4fe-490d-990b-938cc74eadcb.jpg" width="200" height="200"></p>
+## <p align="center">Jicheol Kang :grinning: </p> <p align="center"><img src="https://user-images.githubusercontent.com/57743113/142025819-a6711a39-b4fe-490d-990b-938cc74eadcb.jpg" width="200" height="200"></p>
 
 ### CONTACT
 
