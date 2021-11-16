@@ -3,7 +3,7 @@
 
 ### CONTACT
 
-ztor76@gmail.com
+ztor76@gmail.com or ztor76@naver.com
 
 ### SUMMARY
 
