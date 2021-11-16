@@ -8,7 +8,7 @@ ztor76@gmail.com
 
 ### :man_student: EDUCATION
 
-**Seoul National University of Science and Technology(SEOULTECH)**, Seoul, Korea<br>
+**Seoul National University of Science and Technology(SeoulTech)**, Seoul, Korea<br>
 *M. S. in Data Sciences(Expected, Mar. 2020 - Feb. 2022)*
 - GPA: 4.33/4.5
 
