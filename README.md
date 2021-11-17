@@ -1,6 +1,9 @@
 
 ## <p align="center">Jicheol Kang :grinning: </p> <p align="center"><img src="https://user-images.githubusercontent.com/57743113/142158710-e36ba63a-3fc0-4863-ad7e-25ceb3224aa1.png" width="160" height="160"></p>
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ps26o12b7xm68g95mgtck78m1&cover_image=false&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ### :envelope: CONTACT
 
 **Email** ztor76@{gmail.com, naver.com}<br>
