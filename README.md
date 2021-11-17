@@ -3,9 +3,9 @@
 
 ### :envelope: CONTACT
 
-**Email:** ztor76@{gmail.com, naver.com}<br>
-**KakaoTalk:** ztor2<br>
-**Telegram:** @ztor2
+**Email** ztor76@{gmail.com, naver.com}<br>
+**KakaoTalk** ztor2<br>
+**Telegram** @ztor2
 
 ### :fast_forward: SUMMARY
 
