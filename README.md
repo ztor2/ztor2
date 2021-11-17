@@ -9,6 +9,7 @@
 
 ### :fast_forward: SUMMARY
 
+
 ### :mortar_board: EDUCATION
 
 **서울과학기술대학교 Seoul National University of Science and Technology(SeoulTech)**, Seoul, Korea<br>
@@ -26,7 +27,9 @@
 <br>
   
 ### :runner: EXPERIENCE
-
+- 연구과제 '화장품 소비자 분석 시스템 프로젝트' 참여
+-- 중소기업기술정보진흥원 '2020 기술혁신개발사업'
+- 연구과제 '3차원 딥러닝과 확률그래프모형을 이용한 건축 BIM 모델 부재·공간 정합성 검토 및 지능적 부재 추천 시스템 개발' 참여
 
 ### :computer: SKILLS
 
