@@ -7,8 +7,12 @@
 **KakaoTalk** ztor2<br>
 **Telegram** @ztor2
 
+<br>
+
 ### :fast_forward: SUMMARY
 
+
+<br>
 
 ### :mortar_board: EDUCATION
 
