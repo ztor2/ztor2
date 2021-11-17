@@ -13,7 +13,7 @@
 
 **서울과학기술대학교 Seoul National University of Science and Technology(SeoulTech)**, Seoul, Korea<br>
 *M. S. in Data Sciences(Expected, Mar. 2020 - Feb. 2022)*
-- Thesis: *'A Study on Adjustable and Simplified Graph Diffusion Neural Networks(decision in process)'*
+- Thesis(decision in process): *'A Study on Adjustable and Simplified Graph Diffusion Neural Networks'*
 - GPA: 4.33/4.5
 
 
