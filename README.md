@@ -1,9 +1,6 @@
 
 ## <p align="center">Jicheol Kang :grinning: </p> <p align="center"><img src="https://user-images.githubusercontent.com/57743113/142158710-e36ba63a-3fc0-4863-ad7e-25ceb3224aa1.png" width="160" height="160"></p>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ps26o12b7xm68g95mgtck78m1&cover_image=false&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 ### :envelope: CONTACT
 
 **Email** ztor76@{gmail.com, naver.com}<br>
@@ -30,9 +27,7 @@
 <br>
   
 ### :runner: EXPERIENCE
-- 연구과제 '화장품 소비자 분석 시스템 프로젝트' 참여
--- 중소기업기술정보진흥원 '2020 기술혁신개발사업'
-- 연구과제 '3차원 딥러닝과 확률그래프모형을 이용한 건축 BIM 모델 부재·공간 정합성 검토 및 지능적 부재 추천 시스템 개발' 참여
+
 
 ### :computer: SKILLS
 
