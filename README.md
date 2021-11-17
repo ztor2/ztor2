@@ -3,19 +3,21 @@
 
 ### :envelope: CONTACT
 
-ztor76@gmail.com or ztor76@naver.com
+**Email:** ztor76@{gmail.com, naver.com}<br>
+**KakaoTalk:** ztor2<br>
+**Telegram:** @ztor2
 
 ### :fast_forward: SUMMARY
 
 ### :mortar_board: EDUCATION
 
-**Seoul National University of Science and Technology(SeoulTech)**, Seoul, Korea<br>
+**서울과학기술대학교 Seoul National University of Science and Technology(SeoulTech)**, Seoul, Korea<br>
 *M. S. in Data Sciences(Expected, Mar. 2020 - Feb. 2022)*
 - Thesis: *'A Study on Adjustable and Simplified Graph Diffusion Neural Networks'*
 - GPA: 4.33/4.5
 
 
-**Konkuk University**, Seoul, Korea<br>
+**건국대학교 Konkuk University**, Seoul, Korea<br>
 *B. S. in Biological Sciences(Mar. 2011 - Feb. 2017)*
 - Thesis: 
 - GPA: 3.57/4.5
