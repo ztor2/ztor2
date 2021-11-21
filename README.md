@@ -16,13 +16,13 @@
 
 ### :mortar_board: EDUCATION
 
-**서울과학기술대학교 Seoul National University of Science and Technology(SeoulTech)**, Seoul, Korea<br>
+**Seoul National University of Science and Technology(서울과학기술대학교, SeoulTech)**, Seoul, Korea<br>
 *M. S. in Data Sciences(Expected, Mar. 2020 - Feb. 2022)*
 - Thesis(decision in process): *'A Study on Adjustable and Simplified Graph Diffusion Neural Networks'*
 - GPA: 4.33/4.5
 
 
-**건국대학교 Konkuk University**, Seoul, Korea<br>
+**Konkuk University(건국대학교)**, Seoul, Korea<br>
 *B. S. in Biological Sciences(Mar. 2011 - Feb. 2017)*
 - Thesis: 
 - GPA: 3.57/4.5
