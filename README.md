@@ -1,7 +1,7 @@
 
 ## <p align="center">Jicheol Kang :grinning: </p> <p align="center"><img src="https://user-images.githubusercontent.com/57743113/142158710-e36ba63a-3fc0-4863-ad7e-25ceb3224aa1.png" width="160" height="160"></p>
 
-### :envelope: CONTACT
+### CONTACT
 
 **Email** ztor76@{gmail.com, naver.com}<br>
 **KakaoTalk** ztor2<br>
@@ -9,12 +9,12 @@
 
 <br>
 
-### :fast_forward: SUMMARY
+### SUMMARY
 
 
 <br>
 
-### :mortar_board: EDUCATION
+### EDUCATION
 
 **Seoul National University of Science and Technology(서울과학기술대학교, SeoulTech)**, Seoul, Korea<br>
 *M. S. in Data Sciences(Expected, Mar. 2020 - Feb. 2022)*
@@ -30,13 +30,13 @@
   
 <br>
   
-### :runner: EXPERIENCE
+### EXPERIENCE
 
 
-### :computer: SKILLS
+### SKILLS
 
 
-### :bicyclist: EXTRACURRICULAR ACTIVITIES
+### EXTRACURRICULAR ACTIVITIES
 
 
 <!--
