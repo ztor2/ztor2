@@ -20,11 +20,9 @@
   
 ### EXPERIENCE
 
+<br>
 
 ### SKILLS
-
-
-### EXTRACURRICULAR ACTIVITIES
 
 
 <!--
