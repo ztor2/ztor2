@@ -7,22 +7,6 @@
 **KakaoTalk** ztor2<br>
 **Telegram** @ztor2
 
-<br>
-
-### SUMMARY
-
-
-<br>
-
-### EDUCATION
-  
-<br>
-  
-### EXPERIENCE
-
-<br>
-
-### SKILLS
 
 
 <!--
