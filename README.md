@@ -7,7 +7,7 @@
 **KakaoTalk** ztor2<br>
 **Telegram** @ztor2
 <br>
-You can check my CV [HERE](ztor2.pythonanywhere.com).
+You can check my CV [HERE](https://ztor2.pythonanywhere.com).
 
 
 
