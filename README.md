@@ -13,13 +13,13 @@ Data science, graph neural networks, graph diffusion, recommender system, networ
 **KakaoTalk** ztor2<br>
 **Telegram** @ztor2
 <br><br>
-You can check my CV [**here**](https://ztor2.pythonanywhere.com).
+
 
 
 
 <!--
 **ztor2/ztor2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+You can check my CV [**here**](https://ztor2.pythonanywhere.com).
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
