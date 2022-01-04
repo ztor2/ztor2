@@ -6,7 +6,7 @@
 **Email** ztor76@{gmail.com, naver.com}<br>
 **KakaoTalk** ztor2<br>
 **Telegram** @ztor2
-<br>
+<br><br>
 You can check my CV [here](https://ztor2.pythonanywhere.com).
 
 
