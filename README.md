@@ -3,7 +3,7 @@
 
 ### INTEREST
 
-Data science, graph neural networks, graph diffusion, deep learning based recommendation system, network analysis, transformers, NLP, etc..
+Data science, graph neural networks, graph diffusion, recommendation system, network analysis, transformers, NLP, etc..
 
 ### CONTACT
 
