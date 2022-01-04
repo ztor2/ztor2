@@ -13,7 +13,7 @@ Data science, graph neural networks, graph diffusion, recommender system, networ
 **KakaoTalk** ztor2<br>
 **Telegram** @ztor2
 <br><br>
-You can check my CV [here](https://ztor2.pythonanywhere.com)(Last update: 2022. 01).
+You can check my CV [here](https://ztor2.pythonanywhere.com)(last update: 2022. 01).
 
 
 
