@@ -3,7 +3,7 @@
 
 ### KEYWORDS
 
-M.S. in Data science, graph neural networks, network analysis, recommender system, transformers, NLP, etc.
+M.S. in Data science, graph neural networks, network analysis, recommender system, NLP, etc.
 <br>
 
 
