@@ -1,11 +1,6 @@
 
 ## <p align="center">Jicheol Kang :grinning: </p> <p align="center"><img src="https://user-images.githubusercontent.com/57743113/142158710-e36ba63a-3fc0-4863-ad7e-25ceb3224aa1.png" width="160" height="160"></p>
 
-### KEYWORDS
-
-M.S. in Data science, graph neural networks, network analysis, recommender system, NLP, etc.
-<br>
-
 
 ### CONTACT
 
