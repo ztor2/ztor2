@@ -13,6 +13,10 @@
 <img src='https://img.shields.io/badge/Python-darkblue?logo=python&logoColor=white&logoWidth=20'> <img src='https://img.shields.io/badge/Pytorch-brown?logo=pytorch&logoColor=white&logoWidth=20'> <img src='https://img.shields.io/badge/PyG-brightgreen?logo=pyg&logoColor=white&logoWidth=20'> <img src='https://img.shields.io/badge/PostgreSQL-lightgrey?logo=postgresql&logoColor=white&logoWidth=25'>
 
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztor2&layout=compact)](https://github.com/ztor2/github-readme-stats)
+
+
 <!--
 **ztor2/ztor2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can check my CV [**here**](https://ztor2.pythonanywhere.com).
