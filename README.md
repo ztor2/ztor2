@@ -1,7 +1,6 @@
 
 ## <p align="center">Jicheol Kang :grinning: </p> <p align="center"><img src="https://user-images.githubusercontent.com/57743113/142158710-e36ba63a-3fc0-4863-ad7e-25ceb3224aa1.png" width="160" height="160"></p>
 
-
 ### CONTACT
 
 **Email** ztor76@{gmail.com, naver.com}<br>
@@ -14,7 +13,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztor2&layout=compact)](https://github.com/ztor2/github-readme-stats)
+
 
 
 <!--
