@@ -6,6 +6,7 @@
 ### CONTACT
 
 **Email** ztor76@{gmail.com, naver.com}<br>
+**Email(Business)** jckang@bitnine.net<br>
 **KakaoTalk** ztor2<br>
 **Telegram** @ztor2
 <br>
