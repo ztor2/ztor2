@@ -3,6 +3,8 @@
 
 <br>
 
+AI/ML Researcher
+
 ### CONTACT
 
 **Email** ztor76@{gmail.com, naver.com}<br>
