@@ -14,7 +14,10 @@ AI/ML Researcher
 <br>
 <br>
 
-<img src='https://img.shields.io/badge/Python-darkblue?logo=python&logoColor=white&logoWidth=20'> <img src='https://img.shields.io/badge/Pytorch-brown?logo=pytorch&logoColor=white&logoWidth=20'> <img src='https://img.shields.io/badge/PyG-brightgreen?logo=pyg&logoColor=white&logoWidth=20'> <img src='https://img.shields.io/badge/PostgreSQL-lightgrey?logo=postgresql&logoColor=white&logoWidth=25'>
+<img src='https://img.shields.io/badge/Python-darkblue?logo=python&logoColor=white&logoWidth=20'> <img src='https://img.shields.io/badge/Pytorch-brown?logo=pytorch&logoColor=white&logoWidth=20'> <img src='https://img.shields.io/badge/PyG-brightgreen?logo=pyg&logoColor=white&logoWidth=20'> <img src='https://img.shields.io/badge/PostgreSQL-lightgrey?logo=postgresql&logoColor=white&logoWidth=25'> 
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Blog)](https://jerry-ai.com)
+
 
 <br>
 
