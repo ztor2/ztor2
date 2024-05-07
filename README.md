@@ -18,9 +18,6 @@ AI/ML Researcher
 
 <br>
 
-
-
-
 <!--
 **ztor2/ztor2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can check my CV [**here**](https://ztor2.pythonanywhere.com).
