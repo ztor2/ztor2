@@ -7,7 +7,7 @@ AI/ML Researcher
 
 ### CONTACT
 
-**Email** ztor2k@gmail.com<br>
+**Email** {ztor2k, jicheolkng}@gmail.com<br>
 **Email(Business)** jckang@bitnine.net <br>
 **KakaoTalk** ztor2<br>
 **Telegram** @ztor2
